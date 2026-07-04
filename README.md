@@ -9,7 +9,7 @@ The finance operating system for controllers and operators at a growing company:
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/finance-accounting-ops](https://skillme.dev/pack/finance-accounting-ops) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/finance-accounting-ops`
+- **With the skills CLI:** `npx skills add SkillMedev/finance-accounting-ops`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
